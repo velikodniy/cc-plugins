@@ -1,0 +1,7 @@
+{
+  "name": "claude-plugins",
+  "description": "Personal collection of Claude Code plugins with skills, hooks, and agents",
+  "author": {
+    "name": "Vadim Velicodnii"
+  }
+}
