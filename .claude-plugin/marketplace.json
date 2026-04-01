@@ -5,5 +5,11 @@
   "owner": {
     "name": "Vadim Velicodnii"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "common-sense",
+      "description": "General software development skills and tools",
+      "source": "./plugins/common-sense"
+    }
+  ]
 }
