@@ -1,0 +1,9 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugins",
+  "description": "Personal collection of Claude Code plugins with skills, hooks, and agents",
+  "owner": {
+    "name": "Vadim Velicodnii"
+  },
+  "plugins": []
+}
